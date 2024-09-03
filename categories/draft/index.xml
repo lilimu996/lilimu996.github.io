@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lilimu&#39;s Blog</title>
-    <link>http://example.org/</link>
+    <title>Draft - 分类 - Lilimu&#39;s Blog</title>
+    <link>http://example.org/categories/draft/</link>
     <description>Lilimu&#39;s Blog</description>
     <generator>Hugo 0.133.1 &amp; FixIt v0.3.11</generator>
     <language>zh-CN</language>
     <lastBuildDate>Tue, 03 Sep 2024 17:30:38 +0800</lastBuildDate>
-    <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://example.org/categories/draft/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
       <link>http://example.org/posts/583bc6c/</link>
       <pubDate>Tue, 03 Sep 2024 15:40:02 +0800</pubDate>
       <guid>http://example.org/posts/583bc6c/</guid>
       <category domain="http://example.org/categories/draft/">Draft</category>
-      <description><![CDATA[]]></description>
+      <description>My First Post</description>
     </item>
   </channel>
 </rss>
