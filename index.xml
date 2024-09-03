@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo FixIt Demo</title>
-    <link>https://github.com/lilimu996/lilimu996.github.io/</link>
+    <link>http://example.org/</link>
     <description>Hugo FixIt Demo</description>
     <generator>Hugo 0.133.1 &amp; FixIt v0.3.11</generator>
     <language>en</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://github.com/lilimu996/lilimu996.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
