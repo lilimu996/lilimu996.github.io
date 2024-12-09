@@ -3,6 +3,11 @@
 
 &lt;!--more--&gt;
 
+# 如何使用 hugo site 生成一篇文章
+网站进入主目录
+``` bash
+ hugo new content content/posts/myposts.md
+```
 
 
 ---
