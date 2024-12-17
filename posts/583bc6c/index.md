@@ -22,7 +22,8 @@ run: hugo --minify
 当文档开头的 draft 选项为 true 时，这篇文档将不会被发布
 # 如何升级 hugo 版本
 从 github 下载指定版本的安装包，解压后把里面的文件替换到旧版 hugo 安装路径
-![alt text](./images/image.png)
+
+![windows版本的Hugo](../images/hugoUpgrade.png)
 
 ---
 
